@@ -1,7 +1,7 @@
 {
-  "name": "sendpulse_emailer",
+  "name": "sendpulse_api_subscribe",
   "version": "1.0.0",
-  "description": "Simple app to send email with Sendpulse SMTP API",
+  "description": "Email subscribe form sample using Node.JS and Sendpulse API",
   "author": "Dmitriy Shemendiuk",
   "dependencies": {
     "body-parser": "^1.15.1",
