@@ -1,0 +1,8 @@
+{
+	"port": 8121,
+    "sendpulse": {
+        "userId": "YOUR-API-USER-ID",
+        "secret": "YOUR-API-SECRET",
+        "addressbookId": "YOUR-ADDRESSBOOK-ID"
+    }
+}
